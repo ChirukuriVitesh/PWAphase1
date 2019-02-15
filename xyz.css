@@ -1,0 +1,10 @@
+h1,h2{
+	color: blue;
+	text-align: center;
+}
+#color{
+	color:maroon;
+}
+.color{
+	color:green;
+}

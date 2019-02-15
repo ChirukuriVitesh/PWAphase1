@@ -1,0 +1,69 @@
+#main{
+	background: pink;
+	text-align: center;
+}
+header{
+	background: blue;
+	height: 10vh;
+	padding: 1%;
+	margin: 1%;
+}
+#main a{
+	text-decoration: none;
+
+}
+#main button{
+	background-color: indigo;
+
+}
+
+
+
+
+
+
+
+
+#form{
+	background: pink;
+	text-align: center;
+}
+.main{
+	background-color: green;
+	margin: 2%;
+	padding: 2%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	border-radius: 2%;
+}
+.sub{
+	width: 92%;
+	background:pink;
+	margin: 1%;
+	padding: 1%;
+	border-radius: 6%;
+
+}
+.sub1{
+	width: 43%;
+	background:gray;
+	margin: 1%; 
+	padding:1%;
+	border-radius: 10%;
+
+}
+input,select{
+	width: 90%;
+	margin: 1%;
+
+
+}
+button{
+	width: 7%;
+	height: 7vh;
+	border-radius: 50%;
+	background:yellow;
+	text-align: center;
+}

@@ -1,0 +1,50 @@
+{
+"profile":{
+"img":"pic.jpg",
+"name":"praveen kumar",
+"roll":"532",
+"place":"vadisaleru",
+"designation":"computer student"
+},
+"career":{
+	"info":"I want job"
+},
+"education":[
+ {
+ 	"deg":"b.tech",
+ 	"institute":"lbrce",
+ 	"per":"100",
+ 	"yop":"2022"
+
+ },
+ {
+
+ 	"deg":"b.tech",
+ 	"institute":"lbrchvghasgbhde",
+ 	"%":"100",
+ 	
+ 	"yop":"2022"
+
+ },
+ {
+	"institute":"lbrce",
+ 	"%":"100",
+ 	"yop":"2022"
+
+ }
+ ],
+
+"languages":[
+{
+	"lang":"telugu"
+},
+{
+	"lang":"hindi"
+},
+{
+	"lang":"english"
+}
+]	
+
+
+}

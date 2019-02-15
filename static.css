@@ -1,0 +1,79 @@
+/*this is desktop view*/
+body{
+	background: pink;
+}
+.maindiv
+{
+	background:green;
+	display:flex;
+	justify-content: space-around;
+	margin:3%;
+
+}
+.subdiv1
+{
+ background: yellow;
+ margin: 5%;
+ border-radius:4%;
+ box-shadow: 4px 4px 4px 4px;
+ width:25%;
+ text-align: center;
+ padding:2%;
+ height:55%;
+}
+.subdiv2
+{
+ background: blue;
+ margin: 5%;
+ border-radius:4%;
+ box-shadow: 4px 4px 4px 4px;
+ width:60%;
+}
+img{
+	border-radius: 4%;
+	margin: 4%;
+	width: 50%;
+	height: 30%;
+}
+/*this is mobile view*/
+
+@media screen and (min-width: 320px) and  (max-width: 480px){
+body{
+	background-color: pink;
+}
+.maindiv
+{
+	background:green;
+	display:inline-block;
+	justify-content: space-around;
+	margin:2%;
+
+}
+.subdiv1
+{
+ background: yellow;
+ margin:2%;
+ border-radius:4%;
+ /*display: flex;*/
+ /*flex-wrap: wrap;*/
+ box-shadow: 4px 4px 4px 4px;
+ width:92%;
+ text-align: center;
+ height: 55%;
+ 
+}
+.subdiv2
+{
+ background-color: blue;
+ margin: 2%;
+ border-radius:4%;
+ box-shadow: 4px 4px 4px 4px;
+ width:96%;
+}
+img{
+	border-radius: 4%;
+	margin: 4%;
+	width: 50%;
+	height: 30%;
+}
+}
